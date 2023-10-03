@@ -9,7 +9,14 @@
       "dogBreed": "Giant Schnauzer",
       "id": 2
     }
+
   ],
+  "users": [{
+    "name": "jh",
+    "email": "ygjh",
+    "id": 5
+  }
+],
   "cats": [{
       "catName": "Stanley",
       "catBreed": "Tabby",
@@ -21,7 +28,6 @@
       "id": 2
     }
   ],
-  "users": [],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
